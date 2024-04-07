@@ -18,4 +18,4 @@ Należy pamiętać o:
 5. Wszystkie etapy mają być jasno opisane.
 6. Dynamiczny dokument ma być odporny na możliwe występujące błędy.
   
-*Uwaga.* Jestem ciekaw wszelkich własnych pomysłów wzbogacających skrypto-dokument.
+*Uwaga.* Jestem ciekaw wszelkich Waszych pomysłów wzbogacających skrypto-dokument.
